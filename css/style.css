@@ -19,7 +19,7 @@ img {
     border: 3px solid #04b0ee;
 }
 .container {
-    max-width: 500px;
+    max-width: 300px;
     margin: 0 auto;
     padding: 1rem;
     display: flex;
